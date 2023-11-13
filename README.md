@@ -34,6 +34,10 @@ Installation
 
 Eamil is admin@admin Pasword is 12345678
 
+Contact with me 
+Email: manaronew@gmail.com
+Whatsapp: 249993199616
+
 
 
 
