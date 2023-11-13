@@ -28,8 +28,13 @@ This enables cashiers and managers to track sales, identify trends, and analyze 
 Installation
 1.Clone the project
 2.Go to the project root directory and run composer install and npm install
+6.Import database file restaurantappdb.sql
 4.Start the project by running php artisan serve
 5.Start the vite server (for serving css and js files) by running npm run dev
+
+Eamil is admin@admin Pasword is 12345678
+
+
 
 
 
