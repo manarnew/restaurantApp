@@ -25,3 +25,12 @@ This enables cashiers and managers to track sales, identify trends, and analyze 
 6.Table management
 7.Menu management
 
+Installation
+1.Clone the project
+2.Go to the project root directory and run composer install and npm install
+4.Start the project by running php artisan serve
+5.Start the vite server (for serving css and js files) by running npm run dev
+
+
+
+
