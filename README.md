@@ -13,6 +13,7 @@ Introduction
 The Cashier Management System is a software application designed to streamline and automate cashier-related tasks in a business establishment. 
 It provides a centralized platform for managing transactions, tracking sales, handling cash, and generating reports.
 This readme file provides an overview of the system, its features, and installation instructions.
+The system is built using laravel-livewire and Bootstrap
 
 Features
 1. Transaction Tracking: The system keeps a record of all transactions, including item details, prices, quantities, and payment information.
